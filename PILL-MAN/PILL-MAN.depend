@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1604606810 source:e:\hernandez sandoval alan edgardo\pill-man\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1605013345 source:c:\users\carlo\desktop\pill-man\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1606544775 source:c:\users\carlo\desktop\lenguajes\pill-man\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1607051160 source:e:\pill-man-version2.0\pill-man\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1607916528 source:c:\users\carlo\desktop\pill-man-version2.0\pill-man\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<strings.h>
+

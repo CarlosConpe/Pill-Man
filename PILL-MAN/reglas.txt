@@ -1,0 +1,16 @@
+El juego esta basado en el famoso juego de PAC-MAN. El objetivo del juego consiste en obtener 
+todas las orbes (bolas amarillas) que se encuentran dentro del mapa . Ahora bien, a medida 
+que las orbes se recolectan, el puntaje del juego ira aumentando. De igual manera, las orbes 
+Gigantes (bolas amarillas mas grandes) otorgan mas puntaje al jugador y brindan un superpoder 
+al personaje principal, que es PILL y que dara la posibilidad al mismo de matar a sus enemigos 
+(caspers) comiendolos. Este juego sera trabajado a traves de vidas, y cada que se inicie el 
+juego el usuario empezara con tres vidas. Hasta ahora todo suena muy bien y facil 
+relativamente, pero PILL se vera amenazado durante el juego, ya que habra personajes (caspers) 
+que tratan de perseguir a PILL, para asi posteriormente quitarle vidas al momento que uno de 
+estos lo alcance mientras PILL recoge las orbes.
+Controles: 
+FLECHA HACIA ARRIBA: PILL-MAN SE MUEVE EN DIRECCION ACENDENTE
+FLECHA HACIA ABAJO: PILL-MAN SE MUEVE EN DIRECCION DESCENDENTE
+FLECHA HACIA LA DERECHA: PILLMAN SE MUEVE EN DIRECCION LATERAL A LA DERECHA
+FLECHA HACIA LA IZQUIERDA:PILLMAN SE MUEVE EN DIRECCION LATERAL A LA IZQUIERDA
+BUENA SUERTE! MAY THE FORCE BE WITH YOU
